@@ -34,7 +34,6 @@ export default class extends PureComponent {
         <a
           rel="nofollow"
           href={`http://wpa.qq.com/msgrd?v=3&uin=${qq}&site=qq&menu=yes`}
-          title="销售咨询"
           target="_blank">
           {children}
           </a>
